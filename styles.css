@@ -12,11 +12,6 @@ body{
 .text-responsive {
     font-size: 15px;
   }
-  @media (max-width: 576px) {
-    .responsive-font {
-      font-size: 10px;
-    }
-  }
   /* join now */
   .custom-bg{
     background-color: #289BDE;
