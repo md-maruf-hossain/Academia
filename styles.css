@@ -17,7 +17,7 @@ body{
       font-size: 10px;
     }
   }
-/* cards */
-.btn-custom{
-
+/* footer */
+hr{
+    border-bottom: 4px solid white;
 }
